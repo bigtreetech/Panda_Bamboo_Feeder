@@ -12,7 +12,7 @@ Specially optimized for Bambu Lab X1 / P1 / P2 / A1 series with dedicated power 
 - **Wide Compatibility – Works with most FDM printers, with plug-and-play optimization for Bambu Lab X1/P1/P2/A1.
 
 For instruction manual, please visit BTT Wiki：
-https://bttwiki.com/Panda_Bamboo_Feeder.html
+https://neo.bttwiki.com/en/docs/panda-series/module/panda-bamboo-feeder/
 
 
 ![Static Badge](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-GREEN)
